@@ -490,7 +490,7 @@ li {
   height: 30px;
   text-align: center; /* Center the text horizontally */
   line-height: 30px; /* Center the text vertically by setting line-height equal to the height */
-
+  margin-right: 10px; /* Add a right margin to create space */
 }
 
 .btn-get-started:hover {
