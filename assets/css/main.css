@@ -60,29 +60,6 @@ h6 {
 /*--------------------------------------------------------------
 # Sections & Section Header
 --------------------------------------------------------------*/
-.nav-link {
-  display: inline-block;
-  padding: 10px;
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
-}
-
-.nav-link:hover {
-  color: #ff0000;
-}
-
-.scrollto {
-  /* Add any specific styling for scrollto class */
-}
-
-/* Additional styles for the list item */
-li {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
 section {
   overflow: hidden;
   padding: 80px 0;
