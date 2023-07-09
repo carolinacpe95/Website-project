@@ -411,40 +411,6 @@ p {
   display: block;
 }
 
-
-
-/*--------------------------------------------------------------
-# Blog button
---------------------------------------------------------------*/
-.nav-link {
-  position: fixed;
-  visibility: hidden;
-  opacity: 0;
-  right: 15px;
-  bottom: 15px;
-  z-index: 996;
-  background: #b8a07e;
-  width: 40px;
-  height: 40px;
-  border-radius: 4px;
-  transition: all 0.4s;
-}
-
-.nav-link:hover {
-  color: #ff0000;
-}
-
-.scrollto {
-  /* Add any specific styling for scrollto class */
-}
-
-/* Additional styles for the list item */
-li {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
 /*--------------------------------------------------------------
 # Hero
 --------------------------------------------------------------*/
