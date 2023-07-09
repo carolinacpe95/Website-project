@@ -413,37 +413,6 @@ p {
 
 
 
-/*--------------------------------------------------------------
-# Blog button
---------------------------------------------------------------*/
-.nav-link {
-  position: fixed;
-  visibility: hidden;
-  opacity: 0;
-  right: 15px;
-  bottom: 15px;
-  z-index: 996;
-  background: #b8a07e;
-  width: 40px;
-  height: 40px;
-  border-radius: 4px;
-  transition: all 0.4s;
-}
-
-.nav-link:hover {
-  color: #ff0000;
-}
-
-.scrollto {
-  /* Add any specific styling for scrollto class */
-}
-
-/* Additional styles for the list item */
-li {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 
 /*--------------------------------------------------------------
 # Hero
@@ -490,7 +459,6 @@ li {
   color: #fff;
   font-size: 15px;
 }
-<<<<<<< HEAD
 .btn-get-started {
   display: inline-block;
   padding: 10px 30px;
@@ -502,9 +470,6 @@ li {
 
 .btn-get-started:hover {
   background-color: #b8a07e;
-=======
-
->>>>>>> parent of daa8125 (style.css)
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
