@@ -490,7 +490,7 @@ li {
   height: 30px;
   text-align: center; /* Center the text horizontally */
   line-height: 30px; /* Center the text vertically by setting line-height equal to the height */
-  margin-right: 150px; /* Add a right margin to create space */
+  margin-right: 10px; /* Add a right margin to create space */
 }
 
 .btn-get-started:hover {
@@ -500,8 +500,9 @@ li {
 .list-unstyled.list-social {
   list-style-type: none;
   display: flex;
-  margin: 10;
-  padding: 10;
+  justify-content: flex-end; /* Align the social media icons to the right */
+  margin: 0;
+  padding: 0;
 }
 
 .list-unstyled.list-social li {
