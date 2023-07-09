@@ -486,8 +486,6 @@ li {
   text-decoration: none;
   border-radius: 5px;
   font-size: 14px;
-  border: width 2px;
-  border-style: solid;
 }
 
 .btn-get-started:hover {
