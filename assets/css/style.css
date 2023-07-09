@@ -462,15 +462,14 @@ p {
 .btn-get-started {
   display: inline-block;
   padding: 10px 30px;
-  background-color: #ff0000;
+  background-color: #b8a07e;
   color: #fff;
   text-decoration: none;
-  font-weight: bold;
   border-radius: 5px;
 }
 
 .btn-get-started:hover {
-  background-color: #cc0000;
+  background-color: #b8a07e;
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
