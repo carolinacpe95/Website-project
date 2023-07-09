@@ -479,6 +479,20 @@ li {
   font-size: 15px;
 }
 
+.btn-get-started {
+  display: inline-block;
+  background-color: #b8a07e;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn-get-started:hover {
+  background-color: #b8a07e;
+}
+
+
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
