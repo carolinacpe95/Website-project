@@ -478,7 +478,6 @@ li {
   color: #fff;
   font-size: 15px;
 }
-
 .btn-get-started {
   display: inline-block;
   background-color: #b8a07e;
@@ -500,13 +499,16 @@ li {
 .list-unstyled.list-social {
   list-style-type: none;
   display: flex;
-  justify-content: flex-end; /* Align the social media icons to the right */
   margin: 0;
   padding: 0;
 }
 
 .list-unstyled.list-social li {
   margin: 0 5px;
+}
+
+.list-unstyled.list-social li:first-child {
+  margin-left: 10px; /* Add left margin to the first social media icon */
 }
 
 
